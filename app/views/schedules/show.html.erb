@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Support:</strong>
+  <%= @schedule.support %>
+</p>
+
+<p>
+  <strong>Dateshedule:</strong>
+  <%= @schedule.dateshedule %>
+</p>
+
+<p>
+  <strong>Vacation:</strong>
+  <%= @schedule.vacation %>
+</p>
+
+<%= link_to 'Edit', edit_schedule_path(@schedule) %> |
+<%= link_to 'Back', schedules_path %>
