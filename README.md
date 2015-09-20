@@ -11,5 +11,5 @@ It will shows  the todays support hero
 
 Feel free to access the application [Team](https://appde0911.herokuapp.com/supports)
 
-                                    [Schedules](https://appde0911.herokuapp.com/schedules)
-                                    [Holiday list](https://appde0911.herokuapp.com/holidays)
+   here                             [Schedules](https://appde0911.herokuapp.com/schedules)
+     here                               [Holiday list](https://appde0911.herokuapp.com/holidays)
